@@ -18,7 +18,16 @@
 </p>
 
 ---
+## 🖼️ Screenshots
 
+<div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
+<img src="Screenshots/img1.jpg" width="80%">
+<img src="Screenshots/img2.jpg" width="80%">
+<img src="Screenshots/img3.jpg" width="80%">
+<img src="Screenshots/img4.jpg" width="80%">
+</div>
+
+---
 ## 📥 Installation
 
 ```bash
@@ -43,20 +52,7 @@ python setup.py
 
 ---
 
-## 🖼️ Screenshots
 
-<table>
-  <tr>
-    <td><img src="Screenshots/img1.jpg" ></td>
-    <td><img src="Screenshots/img2.jpg" ></td>
-    <td><img src="Screenshots/img3.jpg" ></td>
-    <td><img src="Screenshots/img4.jpg" ></td>
-  </tr>
-</table>
-
-> Add your preview images inside a `screenshots/` folder in this repo and update the paths above. Add as many `<td><img ...></td>` cells as you need — GitHub auto-scrolls wide tables horizontally.
-
----
 
 ## 📞 Contact & Support
 
