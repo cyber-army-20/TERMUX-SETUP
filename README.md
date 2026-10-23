@@ -20,12 +20,17 @@
 ---
 ## 🖼️ Screenshots
 
-<div style="display: flex; overflow-x: auto; gap: 10px; white-space: nowrap;">
-<img src="Screenshots/img1.jpg" width="80%">
-<img src="Screenshots/img2.jpg" width="80%">
-<img src="Screenshots/img3.jpg" width="80%">
-<img src="Screenshots/img4.jpg" width="80%">
-</div>
+<table>
+  <tr>
+    <td><img src="Screenshots/img1.jpg" ></td>
+    <td><img src="Screenshots/img2.jpg" ></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/img3.jpg" ></td>
+    <td><img src="Screenshots/img4.jpg" ></td>
+  </tr>
+</table>
+
 
 ---
 ## 📥 Installation
